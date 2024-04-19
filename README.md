@@ -1,2 +1,2 @@
 # CS-GO-Plugins
-CS:GO Plugins that i made
+CS:GO Plugins that i've made
